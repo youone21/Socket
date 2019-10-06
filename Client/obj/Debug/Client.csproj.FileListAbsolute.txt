@@ -1,0 +1,12 @@
+E:\自己\zjx\Socket\Client\bin\Debug\Client.exe.config
+E:\自己\zjx\Socket\Client\bin\Debug\Client.exe
+E:\自己\zjx\Socket\Client\bin\Debug\Client.pdb
+E:\自己\zjx\Socket\Client\bin\Debug\CSkin.dll
+E:\自己\zjx\Socket\Client\bin\Debug\CSkin.xml
+E:\自己\zjx\Socket\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\自己\zjx\Socket\Client\obj\Debug\Client.Client.resources
+E:\自己\zjx\Socket\Client\obj\Debug\Client.Properties.Resources.resources
+E:\自己\zjx\Socket\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\自己\zjx\Socket\Client\obj\Debug\Client.csproj.CopyComplete
+E:\自己\zjx\Socket\Client\obj\Debug\Client.exe
+E:\自己\zjx\Socket\Client\obj\Debug\Client.pdb
